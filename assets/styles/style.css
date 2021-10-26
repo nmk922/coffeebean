@@ -324,8 +324,8 @@ form{
     padding: 3%;
     float: left;
 }
-form label{
-    /* border: 1px dashed black; */
+.form label{
+    border: 1px dashed black;
 }
 .form-group:nth-child(1){
     margin-right: 2%;
@@ -395,8 +395,8 @@ textarea{
 }
 
 .footer-content{
+    /* border: 2px dashed #fff; */
     color: #fff;
-    border: 2px dashed #fff;
     width: 85%;
     margin: auto;
     overflow: auto;
